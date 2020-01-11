@@ -1,10 +1,10 @@
 # comparison of "aproksymacja średniokwadratowa" (last-squares function approximation) with other known tools
 
 ## function
+```cpp
+                      f (t) = ( t + 3.6 ) ( t − 2.1 ) ( t − 3.7 )
 
-```
-f(t) = (t + 3.6)(t − 2.1)(t − 3.7)
-X = {(ti, yi)   :   0 ≤ i ≤ 50} // red points
+                      X = {  (ti, yi)   :   0 ≤ i ≤ 50  } // red points on plots
 ```
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation--aproksymacja_sredniokwadratowa/plots/function_f_plot.png"/>
