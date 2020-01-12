@@ -12,7 +12,7 @@ xs = [x[0] for x in points]
 ys = [x[1] for x in points] 
 
 plt.plot(xs, ys)
-plt.title("Efekt Rungego")
+plt.title("Runge's phenomenon")
 plt.xlim(-5, 6)
 plt.ylim(-30,60)
 plt.show()
