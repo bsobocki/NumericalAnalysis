@@ -5,7 +5,6 @@ Bezier Curve:
         
         P(t) =  ∑ (i=0;n) wi * Wi* B(n i)(t)  <----- bezier_curve(t)  | control points should be multiplied by weights before call bezier_curve(t)
 """
-
 class bezier_curve:
 
     def __init__(self, points):
@@ -29,3 +28,7 @@ class bezier_curve:
     #    return plus(
     #                mult( 1-t, self.W(n-1, k, t) ), 
     #                mult( t, self.W(n-1, k+1, t) ))
+
+"""Bernstein polynomials"""    
+def B(n, k, x):
+    return sp.binom(n,k) * x**k * (1 - x)**(n-k)
