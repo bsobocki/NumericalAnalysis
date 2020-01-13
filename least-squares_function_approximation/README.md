@@ -26,15 +26,19 @@
 ### w*1
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation/plots/w1_plot.png" />
+
 ### w*2
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation/plots/w2_plot.png" />
+
 ### w*3
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation/plots/w3_plot.png" />
+
 ### w*4
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation/plots/w4_plot.png" />
+
 ### w*5
 
 <img src="https://github.com/bsobocki/NumericalAnalysis/blob/master/least-squares_function_approximation/plots/w5_plot.png" />
