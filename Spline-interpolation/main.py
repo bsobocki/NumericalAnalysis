@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import interpolation as intp
+import spline_interpolation as intp
 
 """ sx and sy arguments generator """
 def t(n):

@@ -24,10 +24,9 @@ def approx(degree):
 
 points = list(get_file_points())
 
-#approx(2)
-#approx(3)
-#approx(4)
-#approx(5)
-#approx(6)
-#approx(26)
-approx(30)
+approx(2)
+approx(3)
+approx(4)
+approx(5)
+approx(6)
+approx(26)
